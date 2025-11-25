@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Experiencias de transición agroecológicado
+      h1 Experiencias de transición agroecológica
     
     .fondo___color_1
       .px-5

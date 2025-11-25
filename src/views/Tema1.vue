@@ -32,7 +32,7 @@
             .ajuste-slider(data-aos="zoom-in")
               SlyderA(tipo="b")
                 .row.h-100.justify-content-center.align-items-center
-                  .col-xl-6.mb-4
+                  .col-xl-6
                     h4 Observación participativa
                     p.mb-0 No se limita a observar desde fuera, sino que implica involucrarse activamente en las dinámicas cotidianas del predio. El acompañante técnico comparte recorridos, prácticas y conversaciones con las familias rurales. Esta técnica permite identificar sentidos, relaciones y significados invisibles en una observación externa. Favorece el diálogo de saberes, la empatía territorial y la lectura situada del sistema (Sánchez et al., 2021).
                   .col-xl-6
@@ -40,7 +40,7 @@
                       img(src='@/assets/curso/temas/img4.png', alt='' style="max-width: 500px").m-auto
                 
                 .row.h-100.justify-content-center.align-items-center
-                  .col-xl-6.mb-4
+                  .col-xl-6
                     h4 Entrevistas familiares
                     p.mb-0 Son espacios de diálogo profundo que permiten comprender el predio desde la experiencia de quienes lo habitan. Más allá de recolectar datos, revelan historias, aspiraciones, tensiones y relaciones. Se aplican con respeto a los saberes locales, roles de género y formas organizativas. Fortalecen la confianza, la validación territorial y la planificación colectiva (Sánchez et al., 2021).
                   .col-xl-6
@@ -48,7 +48,7 @@
                       img(src='@/assets/curso/temas/img5.png', alt='' style="max-width: 500px").m-auto
 
                 .row.h-100.justify-content-center.align-items-center
-                  .col-xl-6.mb-4
+                  .col-xl-6
                     h4 Registro fotográfico y audiovisual
                     p.mb-0 Captura visualmente las condiciones del predio, las prácticas, los elementos simbólicos y las dinámicas familiares. Permite construir narrativas territoriales, visibilizar transformaciones y reforzar la memoria colectiva. Debe realizarse con consentimiento explícito, respetando la privacidad y dignidad de las personas. Se convierte en insumo clave para la valoración participativa, la planificación predial y la comunicación comunitaria.
                   .col-xl-6

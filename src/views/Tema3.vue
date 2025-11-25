@@ -164,7 +164,7 @@
                 .row(titulo="Inicial").ajuste-cajaAcordion
                   <ul class="fa-ul estilo___ul_2 mb-3">
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Objetivo</strong>: aumentar la eficiencia de las prácticas convencionales, reduciendo impactos negativos sin modificar la estructura del sistema.</li>
-                    <li class="mb-1"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Estrategias clave</strong>: optimizar el uso de insumos y maquinaria, aplicar prácticas básicas de conservación de suelo y agua, e iniciar procesos de sensibilización familiar.</li>
+                    <li class="mb-1"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Estrategias clave</strong>: optimizar el uso de insumos y maquinaria, aplicar prácticas básicas de conservación de suelo y agua e iniciar procesos de sensibilización familiar.</li>
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Ejemplos de prácticas</strong>: <em>mulch</em>, riego tecnificado, terrazas y compost básico.</li>
                     <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span><strong>Acompañamiento recomendado</strong>: formación inicial, visitas técnicas y talleres demostrativos.</li>
                   </ul>
