@@ -107,32 +107,32 @@
 
     .row.mb-5
       .col-lg-4(data-aos="zoom-in")
-        .tarjeta--boton.p-4.h-100
+        .tarjeta--boton.h-100
           .row.justify-content-center.mb-3
             .col-12
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/temas/img27.png', alt="").m-auto
           h3.text-center Social
           p.mb-3 Analiza las relaciones humanas, la organización y la equidad. 
-          p.mb-0 <strong>Ejemplos de indicadores</strong>: participación comunitaria, acceso a servicios y roles de género.
+          p.mb-4 <strong>Ejemplos de indicadores</strong>: participación comunitaria, acceso a servicios y roles de género.
       .col-lg-4(data-aos="zoom-in").espacio___movil_3
-        .tarjeta--boton.p-4.h-100
+        .tarjeta--boton.h-100
           .row.justify-content-center.mb-3
             .col-12
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/temas/img28.png', alt="").m-auto
           h3.text-center Ambiental
           p.mb-3 Evalúa el manejo del entorno natural y la biodiversidad. 
-          p.mb-0 <strong>Ejemplos de indicadores</strong>: conservación de suelos, protección de fuentes de agua y diversidad de cultivos.
+          p.mb-4 <strong>Ejemplos de indicadores</strong>: conservación de suelos, protección de fuentes de agua y diversidad de cultivos.
       .col-lg-4(data-aos="zoom-in").espacio___movil_3
-        .tarjeta--boton.p-4.h-100
+        .tarjeta--boton.h-100
           .row.justify-content-center.mb-3
             .col-12
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/temas/img29.png', alt="").m-auto
           h3.text-center Productiva
           p.mb-3 Examina las actividades económicas y su sostenibilidad. 
-          p.mb-0 <strong>Ejemplos de indicadores</strong>: diversificación de ingresos, uso de insumos y eficiencia energética.
+          p.mb-4 <strong>Ejemplos de indicadores</strong>: diversificación de ingresos, uso de insumos y eficiencia energética.
 
     p.mb-0 La selección final de indicadores debe adaptarse al contexto territorial, al tipo de predio y a los objetivos del acompañamiento. En los cursos anteriores se expuso detalladamente la metodología de selección y aplicación de cada uno de estos indicadores.
 
@@ -271,7 +271,7 @@
 
         .row.justify-content-center.mb-5
           .col-xl-11
-            .row.align-items-center.justify-content-center
+            .row.align-items-center.justify-content-center.mb-3
               .col-xl-3.col-md-8(data-aos="fade-right")
                 .style___box_5.p-4
                   .row.justify-content-center.mb-3
@@ -296,8 +296,13 @@
                     .col-8
                       img(src='@/assets/curso/temas/img39.svg' style="max-width: 90px").m-auto
                   h5.mb-3.estilo-text Proyectar mejoras
-        
-        p.mb-0 En el marco del IPPTA, esta etapa tiene como objetivo acompañar procesos de <strong>reflexión y decisión comunitaria</strong>, fortaleciendo la <strong>autonomía campesina y la planificación predial</strong> con un enfoque <strong>territorial, ecológico y cultural</strong>.
+            
+            p.mb-0.style___box_9(data-aos="zoom-in") En el marco del IPPTA, esta etapa tiene como objetivo acompañar procesos de <strong>reflexión y decisión comunitaria</strong>, fortaleciendo la <strong>autonomía campesina y la planificación predial</strong> con un enfoque <strong>territorial, ecológico y cultural</strong>.
+    
+    figure(data-aos="zoom-in")
+      .video.mb-1
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/pE801QBON00" title="Tutorial del Intrumento de Planificación Predial para la Transición Agroecológica - IPPTA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: tutorial del Intrumento de Planificación Predial para la Transición Agroecológica - IPPTA
 
 </template>
 

@@ -111,6 +111,16 @@
                     figure.d-none.d-xl-block
                       img(src='@/assets/curso/temas/img60.png', alt='' style="max-width: 500px").m-auto
     
+    p.mb-5 Se invita a revisar los videos que presentan diversas experiencias agroecológicas a nivel mundial, disponibles en el material complementario.
+
+    .row.align-items-center.mb-5.m-0.style___box_10(data-aos="zoom-in")
+      .col-xl-auto(data-aos="fade-right")
+        figure.d-none.d-xl-block
+          img(src='@/assets/curso/temas/img67.svg', alt='' ).m-auto
+      .col-xl
+        h4 Material complementario
+        p.mb-0 Se invita a revisar los videos que presentan diversas experiencias agroecológicas a nivel mundial, disponibles en el material complementario. 
+    
     p.mb-0 Estas iniciativas demuestran que la transición agroecológica en América Latina requiere <strong>voluntad política, protagonismo comunitario y herramientas adaptadas al territorio</strong>. Su éxito depende de la capacidad de construir procesos colectivos que integren conocimientos técnicos y saberes locales, transformando no solo la producción, sino también la organización social, la gestión del territorio y la relación con la naturaleza.
 
     <!-- BLOQUE 3 -->
