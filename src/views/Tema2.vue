@@ -230,7 +230,7 @@
               .col-xl-6.mb-4
                 h4 Cálculo automático del Estado de Transición Agroecológica (ETA)
                 p.mb-2 La hoja de cálculo suma las calificaciones y determina el nivel de transición con base en el porcentaje respecto al puntaje máximo posible:
-                <ul class="fa-ul estilo___ul_1 mb-0">
+                <ul class="fa-ul estilo___ul mb-0">
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>Menor a 40 %  Inicial.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>40 - 60 %  Medianamente bajo.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>60 - 84 % Medianamente alto.</li>
@@ -298,6 +298,8 @@
                   h5.mb-3.estilo-text Proyectar mejoras
             
             p.mb-0.style___box_9(data-aos="zoom-in") En el marco del IPPTA, esta etapa tiene como objetivo acompañar procesos de <strong>reflexión y decisión comunitaria</strong>, fortaleciendo la <strong>autonomía campesina y la planificación predial</strong> con un enfoque <strong>territorial, ecológico y cultural</strong>.
+    
+    p.mb-5 A continuación, se presenta un video sobre el IPPTA, en el cual se explican sus principios fundamentales y su aporte a la transformación rural.
     
     figure(data-aos="zoom-in")
       .video.mb-1
