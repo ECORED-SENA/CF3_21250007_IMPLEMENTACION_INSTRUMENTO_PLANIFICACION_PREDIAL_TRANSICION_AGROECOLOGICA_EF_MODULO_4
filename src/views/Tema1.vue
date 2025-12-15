@@ -102,8 +102,8 @@
 
     figure(data-aos="zoom-in")
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") <strong>Video</strong>: TEXTO
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/nL4NWMCUWDg" title="Seguridad en campo: uso de Elementos de Protección Personal (EPP)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: seguridad en campo: uso de Elementos de Protección Personal (EPP).
 
     <!-- BLOQUE 3 -->
     Separador
