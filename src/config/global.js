@@ -341,11 +341,6 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del ecosistema',
-          centro: 'Dirección General',
-        },
-        {
           nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción',
           centro: 'Dirección General',
@@ -360,6 +355,35 @@ export default {
           cargo: 'Experto temático',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Jorge Eduardo Alava Arevalo',
+          cargo: 'Instructor técnico',
+          centro:
+            'Centro Internacional de Producción Limpia Lope - Regional Nariño',
+        },
+        {
+          nombre: 'Gonzalo Cardona',
+          cargo: 'Coordinador Colombia',
+          centro: 'Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Pablo Aguirre',
+          cargo: 'Coordinador',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) - Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Jenny Gómez',
+          cargo: 'Asistente técnica',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) - Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Roger Garcia',
+          cargo: 'Consultor',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) - Agronomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',

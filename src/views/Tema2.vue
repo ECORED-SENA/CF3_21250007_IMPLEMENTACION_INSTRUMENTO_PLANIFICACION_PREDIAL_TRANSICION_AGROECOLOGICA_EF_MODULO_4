@@ -155,6 +155,14 @@
                 .style___box_6_1.p-4
                   p.mb-3.estilo-text Genera un <strong>diagrama radial</strong>, que permite una lectura gráfica e integral del agroecosistema.
 
+        .row.justify-content-center.mb-5
+          .col-xl-5.col-md-9(data-aos="zoom-in")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/ETA_Caracterizacion_Predial.xlsx')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-xls.svg")
+              .anexo__texto
+                p <strong>Anexo</strong>. Caracterización Estado de Transición Agroecológica Predial (ETA).
+
         .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
           .col-lg-auto
             figure
