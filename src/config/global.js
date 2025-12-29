@@ -143,7 +143,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/21250007_CF03_DU.pdf',
+        download: 'downloads/21250010_M4_CF03_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -177,21 +177,21 @@ export default {
     {
       tema: 'Interpretación del diagrama radial IPPTA ',
       referencia:
-        'Agencia de Desarrollo Rural Colombia. (2024). Tutorial del Intrumento de Planificación Predial para la Transición Agroecológica - IPPTA [Video]. YouTube.',
+        'Agencia de Desarrollos Rural Colombia. (2024). Tutorial del Intrumento de Planificación Predial para la Transición Agroecológica - IPPTA [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=pE801QBON00&t=10s ',
     },
     {
       tema: 'Experiencias de transición agroecológica',
       referencia:
-        'Dirección de Comunicación Institucional - FAUBA (2016). Bases agroecológicas de la transición – Miguel Altieri [Video]. YouTube. ',
+        'Dirección de Comunicación Institucional - FAUBA (2016). Bases agroecológicas de la transición - Miguel Altieri [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=XMmQbrXbjKI ',
     },
     {
       tema: 'Ejemplos exitosos en el mundo',
       referencia:
-        'USGS. (2022).Can rock dams reverse climate change? [Video]. YouTube.',
+        'USGS. (2022). Can rock dams reverse climate change? [Video]. YouTube.',
       tipo: 'Video ',
       link:
         'https://www.youtube.com/watch?v=c2tYI7jUdU0&list=PLZ_gacGTx7nWtwxAXtvBj2iajtuN1hZSI&index=16 ',
@@ -213,7 +213,7 @@ export default {
     {
       tema: 'Ejemplos exitosos en el mundo',
       referencia:
-        'INTA Informa. (2018). La transicion agroecológica , paso a paso. [Video]. YouTube.',
+        'INTA Informa. (2018). La transición agroecológica, paso a paso. [Video]. YouTube.',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=i7UWn49EyU8 ',
     },
@@ -228,14 +228,14 @@ export default {
     {
       tema: 'Ejemplos exitosos en el mundo',
       referencia:
-        'Agroecology Fund. (2024).Transición Agroecológica: Hacia la Soberanía Alimentaria en Cuba. [Video]. YouTube.',
+        'Agroecology Fund. (2024). Transición Agroecológica: Hacia la Soberanía Alimentaria en Cuba. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=eWCzuQm48BU',
     },
     {
       tema: 'Ejemplos exitosos en Colombia',
       referencia:
-        'La Tulpa. (2020).La Tulpa - Familias Nariñenses en la Agricultura Orgánica.  [Video]. YouTube.',
+        'La Tulpa. (2020). La Tulpa - Familias Nariñenses en la Agricultura Orgánica.  [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=BVsK0WHkn0Y ',
     },
@@ -249,7 +249,7 @@ export default {
     {
       tema: 'Ejemplos exitosos en Colombia',
       referencia:
-        'Fondo Acción. (2022).Colombia Baja en Carbono - ASPROCIG.  [Video]. YouTube.',
+        'Fondo Acción. (2022). Colombia Baja en Carbono - ASPROCIG.  [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=MhddpT_T65o ',
     },

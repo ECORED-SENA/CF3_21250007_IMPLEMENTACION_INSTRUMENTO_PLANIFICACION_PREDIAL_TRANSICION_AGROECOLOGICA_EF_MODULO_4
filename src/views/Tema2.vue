@@ -240,9 +240,9 @@
                 p.mb-2 La hoja de cálculo suma las calificaciones y determina el nivel de transición con base en el porcentaje respecto al puntaje máximo posible:
                 <ul class="fa-ul estilo___ul mb-0">
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>Menor a 40 %  Inicial.</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>40 - 60 %  Medianamente bajo.</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>60 - 84 % Medianamente alto.</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>85 - 100 %  Avanzado.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>40-60 %  Medianamente bajo.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>60-84 % Medianamente alto.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-leaf"></i></span>85-100 %  Avanzado.</li>
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
@@ -285,25 +285,25 @@
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/temas/img36.svg' style="max-width: 90px").m-auto
-                  h5.mb-3.estilo-text Construir propuestas de acción agroecológica
+                  h5.mb-3.estilo-text Construir propuestas de acción agroecológica.
               .col-xl-3.col-md-8.espacio___movil_3(data-aos="zoom-in")
                 .style___box_5.p-4.ajuste___box_5
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/temas/img37.svg' style="max-width: 90px").m-auto
-                  h5.mb-3.estilo-text Definir prioridades
+                  h5.mb-3.estilo-text Definir prioridades.
               .col-xl-3.col-md-8.espacio___movil_3(data-aos="fade-left")
                 .style___box_5.p-4.ajuste___box_5
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/temas/img38.svg' style="max-width: 90px").m-auto
-                  h5.mb-3.estilo-text Asignar recursos
+                  h5.mb-3.estilo-text Asignar recursos.
               .col-xl-3.col-md-8.espacio___movil_3(data-aos="fade-left")
                 .style___box_5.p-4.ajuste___box_5
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/temas/img39.svg' style="max-width: 90px").m-auto
-                  h5.mb-3.estilo-text Proyectar mejoras
+                  h5.mb-3.estilo-text Proyectar mejoras.
             
             p.mb-0.style___box_9(data-aos="zoom-in") En el marco del IPPTA, esta etapa tiene como objetivo acompañar procesos de <strong>reflexión y decisión comunitaria</strong>, fortaleciendo la <strong>autonomía campesina y la planificación predial</strong> con un enfoque <strong>territorial, ecológico y cultural</strong>.
     
