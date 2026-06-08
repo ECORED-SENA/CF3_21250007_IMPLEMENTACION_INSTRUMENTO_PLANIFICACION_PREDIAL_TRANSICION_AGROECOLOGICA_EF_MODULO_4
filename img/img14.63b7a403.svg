@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87.539" height="87.539" viewBox="0 0 87.539 87.539">
+  <g id="Group_1201746" data-name="Group 1201746" transform="translate(-1124.051 -3591)">
+    <g id="Group_1201736" data-name="Group 1201736" transform="translate(716 1748)">
+      <g id="Group_1200255" data-name="Group 1200255" transform="translate(408.051 1843)">
+        <g id="Group_1187152" data-name="Group 1187152">
+          <g id="Group_1185946" data-name="Group 1185946">
+            <g id="Group_1184280" data-name="Group 1184280">
+              <g id="Group_1182168" data-name="Group 1182168">
+                <g id="Group_1178877" data-name="Group 1178877">
+                  <g id="Group_1111311" data-name="Group 1111311">
+                    <g id="Group_1098742" data-name="Group 1098742" transform="translate(0 0)">
+                      <g id="Rectangle_400898" data-name="Rectangle 400898" transform="translate(0.001 0)" fill="#ffc94a" stroke="#b18c32" stroke-width="1" opacity="0.859">
+                        <rect width="87.539" height="87.539" rx="43.769" stroke="none"/>
+                        <rect x="0.5" y="0.5" width="86.539" height="86.539" rx="43.269" fill="none"/>
+                      </g>
+                      <g id="Rectangle_400907" data-name="Rectangle 400907" transform="translate(0 0)" fill="none" stroke="#b18c32" stroke-width="1">
+                        <rect width="87.539" height="87.539" rx="43.769" stroke="none"/>
+                        <rect x="0.5" y="0.5" width="86.539" height="86.539" rx="43.269" fill="none"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="desinfectante" transform="translate(1140.051 3606.327)">
+      <g id="Group_1201741" data-name="Group 1201741" transform="translate(0.816 6.7)">
+        <rect id="Rectangle_410903" data-name="Rectangle 410903" width="10.881" height="4.315" transform="translate(6.91 12.78)" fill="#cda0e1"/>
+        <path id="Path_1247718" data-name="Path 1247718" d="M196.647,104.562v7.5h0a3.653,3.653,0,0,1-3.582-2.934l-.918-4.57Z" transform="translate(-172.055 -99.285)" fill="#cda0e1"/>
+        <path id="Path_1247719" data-name="Path 1247719" d="M42.655,56.067a4.449,4.449,0,0,0-4.449,4.449h0a4.449,4.449,0,0,0,2.787,4.127h0a4.176,4.176,0,0,1,2.616,3.874v.331h7.54V64.608a3.264,3.264,0,0,1,3.264-3.264h3.14V56.067Z" transform="translate(-34.865 -56.067)" fill="#fff"/>
+        <rect id="Rectangle_410904" data-name="Rectangle 410904" width="4.516" height="5.277" transform="translate(22.688)" fill="#cda0e1"/>
+        <path id="Path_1247720" data-name="Path 1247720" d="M398.7,218.489c-.1,5.947-8.947,5.946-9.048,0C389.753,212.542,398.6,212.543,398.7,218.489Z" transform="translate(-348.068 -196.841)" fill="#71e4bf"/>
+        <circle id="Ellipse_12362" data-name="Ellipse 12362" cx="4.524" cy="4.524" r="4.524" transform="translate(31.899 36.142)" fill="#71e4bf"/>
+        <path id="Path_1247721" data-name="Path 1247721" d="M32.092,235.005a25.481,25.481,0,0,0-8.262-18.782l-.047-2.7h-7.54v2.661A25.481,25.481,0,0,0,7.5,235.393H32.092Z" transform="translate(-7.5 -196.386)" fill="#fff"/>
+        <path id="Path_1247722" data-name="Path 1247722" d="M7.5,414.544V421a3.264,3.264,0,0,0,3.264,3.264H28.827A3.264,3.264,0,0,0,32.092,421v-6.451Z" transform="translate(-7.5 -375.537)" fill="#bccdb2"/>
+        <path id="Path_1247723" data-name="Path 1247723" d="M392.371,218.5a4.281,4.281,0,0,1,3.164-4.27,4.491,4.491,0,1,0,0,8.54A4.281,4.281,0,0,1,392.371,218.5Z" transform="translate(-348.068 -196.849)" fill="#00dba8"/>
+        <path id="Path_1247724" data-name="Path 1247724" d="M303.371,392.742a4.526,4.526,0,0,1,3.164-4.315,4.524,4.524,0,1,0,0,8.631A4.525,4.525,0,0,1,303.371,392.742Z" transform="translate(-268.752 -352.076)" fill="#00dba8"/>
+        <path id="Path_1247725" data-name="Path 1247725" d="M18.964,216.18v-2.661h-2.72v2.661A25.481,25.481,0,0,0,7.5,235.393h2.72A25.481,25.481,0,0,1,18.964,216.18Z" transform="translate(-7.5 -196.386)" fill="#e3e9ee"/>
+        <rect id="Rectangle_410905" data-name="Rectangle 410905" width="2.72" height="4.315" transform="translate(6.91 12.78)" fill="#b071d2"/>
+        <path id="Path_1247726" data-name="Path 1247726" d="M10.22,421v-6.451H7.5V421a3.264,3.264,0,0,0,3.264,3.264h2.72A3.264,3.264,0,0,1,10.22,421Z" transform="translate(-7.5 -375.537)" fill="#b071d2"/>
+        <path id="Path_1247727" data-name="Path 1247727" d="M46.254,68.848V67.842a5.6,5.6,0,0,0-2.84-4.432h0c-1.548-.624-2.127-2.125-2.127-3.795h0c0-2.259,1.832-3.547,4.091-3.547H42.655a4.449,4.449,0,0,0-4.449,4.449h0a4.449,4.449,0,0,0,2.787,4.127h0a4.176,4.176,0,0,1,2.616,3.874v.331Z" transform="translate(-34.865 -56.068)" fill="#e3e9ee"/>
+      </g>
+      <g id="Group_1201742" data-name="Group 1201742" transform="translate(10.664 49.749)">
+        <path id="Línea_566" data-name="Línea 566" d="M1.632-5.868H0V-7.5H1.632Z" transform="translate(0 7.5)" fill="#fff"/>
+        <path id="Línea_567" data-name="Línea 567" d="M1.632-5.868H0V-7.5H1.632Z" transform="translate(3.264 7.5)" fill="#fff"/>
+      </g>
+      <g id="Group_1201745" data-name="Group 1201745" transform="translate(0 0.673)">
+        <path id="Trazado_1247728" data-name="Trazado 1247728" d="M45.284,62.979H36.111V61.832a3.358,3.358,0,0,0-2.1-3.117,5.265,5.265,0,0,1,1.968-10.149h3.21V50.2h-3.21a3.633,3.633,0,0,0-1.358,7,4.991,4.991,0,0,1,3.1,4.146h5.932V57.924a4.085,4.085,0,0,1,4.08-4.08h6.839V50.2H40.817V48.567H56.2v6.909H47.733a2.451,2.451,0,0,0-2.448,2.448Z" transform="translate(-27.368 -43.355)"/>
+        <path id="Rectángulo_410906" data-name="Rectángulo 410906" d="M-7.5-7.5H5.014v5.947H-7.5ZM3.381-5.868H-5.868v2.683H3.381Z" transform="translate(14.41 25.492)"/>
+        <path id="Trazado_1247729" data-name="Trazado 1247729" d="M22.144,239.239h-2.72v-1.632h2.72a2.451,2.451,0,0,0,2.448-2.448v-6.839a24.727,24.727,0,0,0-8-18.181l-.258-.237-.039-2.253H10.375v2.217l-.28.244a24.657,24.657,0,0,0-8.463,18.6v6.451a2.451,2.451,0,0,0,2.448,2.448h13.71v1.632H4.08A4.085,4.085,0,0,1,0,235.158v-6.451a26.29,26.29,0,0,1,8.743-19.581v-3.11H17.9l.055,3.159a26.364,26.364,0,0,1,8.267,19.144v6.839A4.085,4.085,0,0,1,22.144,239.239Z" transform="translate(0 -183.673)"/>
+        <path id="Trazado_1247730" data-name="Trazado 1247730" d="M190.91,111.565h-.816a4.482,4.482,0,0,1-4.382-3.589l-.918-4.57,1.6-.321.918,4.57a2.847,2.847,0,0,0,1.965,2.158v-6.567h1.632Z" transform="translate(-164.686 -91.941)"/>
+        <path id="Línea_568" data-name="Línea 568" d="M-5.868,5.277H-7.5V0h1.632Z" transform="translate(30.188 6.028)"/>
+        <path id="Línea_569" data-name="Línea 569" d="M17.029-5.868H0V-7.5H17.029Z" transform="translate(32.135 15.051)"/>
+        <path id="Línea_570" data-name="Línea 570" d="M7.152-1.037-2.964-5.39l.645-1.5L7.8-2.536Z" transform="translate(34.777 17.771)"/>
+        <path id="Línea_571" data-name="Línea 571" d="M-2.319-1.037l-.645-1.5L7.152-6.889,7.8-5.39Z" transform="translate(34.777 6.889)"/>
+        <g id="Group_1201743" data-name="Group 1201743" transform="translate(38.134 18.886)">
+          <path id="Línea_572" data-name="Línea 572" d="M-5.868,3.449H-7.5V0h1.632Z" transform="translate(15.473 13.313)"/>
+          <path id="Línea_573" data-name="Línea 573" d="M-5.868,3.449H-7.5V0h1.632Z" transform="translate(15.473 0.816)"/>
+          <path id="Línea_574" data-name="Línea 574" d="M3.449-5.868H0V-7.5H3.449Z" transform="translate(13.313 15.473)"/>
+          <path id="Línea_575" data-name="Línea 575" d="M3.449-5.868H0V-7.5H3.449Z" transform="translate(0.816 15.473)"/>
+          <path id="Línea_576" data-name="Línea 576" d="M-4.149-1.71-5.3-2.864-2.864-5.3-1.71-4.149Z" transform="translate(7.878 16.714)"/>
+          <path id="Línea_577" data-name="Línea 577" d="M-4.149-1.71-5.3-2.864-2.864-5.3-1.71-4.149Z" transform="translate(16.714 7.878)"/>
+          <path id="Línea_578" data-name="Línea 578" d="M-2.864-1.71-5.3-4.149-4.149-5.3-1.71-2.864Z" transform="translate(16.714 16.714)"/>
+          <path id="Línea_579" data-name="Línea 579" d="M-2.864-1.71-5.3-4.149-4.149-5.3-1.71-2.864Z" transform="translate(7.878 7.878)"/>
+          <path id="Línea_580" data-name="Línea 580" d="M3.393-5.868H0V-7.5H3.393Z" transform="translate(7.093 7.5)"/>
+          <path id="Línea_581" data-name="Línea 581" d="M3.393-5.868H0V-7.5H3.393Z" transform="translate(7.093 23.447)"/>
+          <path id="Línea_582" data-name="Línea 582" d="M-5.868,3.393H-7.5V0h1.632Z" transform="translate(7.5 7.093)"/>
+          <path id="Línea_583" data-name="Línea 583" d="M-5.868,3.393H-7.5V0h1.632Z" transform="translate(23.447 7.093)"/>
+          <path id="Elipse_12363" data-name="Elipse 12363" d="M-2.16-7.5A5.346,5.346,0,0,1,3.18-2.16,5.346,5.346,0,0,1-2.16,3.18,5.346,5.346,0,0,1-7.5-2.16,5.346,5.346,0,0,1-2.16-7.5Zm0,9.048A3.712,3.712,0,0,0,1.548-2.16,3.712,3.712,0,0,0-2.16-5.868,3.712,3.712,0,0,0-5.868-2.16,3.712,3.712,0,0,0-2.16,1.548Z" transform="translate(10.949 10.949)"/>
+          <path id="Línea_584" data-name="Línea 584" d="M-4.149-1.75-5.3-2.9l2.4-2.4L-1.75-4.149Z" transform="translate(6.678 6.678)"/>
+          <path id="Línea_585" data-name="Línea 585" d="M-4.149-1.75-5.3-2.9l2.4-2.4L-1.75-4.149Z" transform="translate(17.954 17.954)"/>
+          <path id="Línea_586" data-name="Línea 586" d="M-2.9-1.75l-2.4-2.4L-4.149-5.3l2.4,2.4Z" transform="translate(17.954 6.678)"/>
+          <path id="Línea_587" data-name="Línea 587" d="M-2.9-1.75l-2.4-2.4L-4.149-5.3l2.4,2.4Z" transform="translate(6.678 17.954)"/>
+        </g>
+        <g id="Group_1201744" data-name="Group 1201744" transform="translate(28.449 37.905)">
+          <path id="Línea_588" data-name="Línea 588" d="M-5.868,3.449H-7.5V0h1.632Z" transform="translate(15.473 13.313)"/>
+          <path id="Línea_589" data-name="Línea 589" d="M-5.868,3.449H-7.5V0h1.632Z" transform="translate(15.473 0.816)"/>
+          <path id="Línea_590" data-name="Línea 590" d="M3.449-5.868H0V-7.5H3.449Z" transform="translate(13.313 15.473)"/>
+          <path id="Línea_591" data-name="Línea 591" d="M3.449-5.868H0V-7.5H3.449Z" transform="translate(0.816 15.473)"/>
+          <path id="Línea_592" data-name="Línea 592" d="M-4.149-1.71-5.3-2.864-2.864-5.3-1.71-4.149Z" transform="translate(7.878 16.714)"/>
+          <path id="Línea_593" data-name="Línea 593" d="M-4.149-1.71-5.3-2.864-2.864-5.3-1.71-4.149Z" transform="translate(16.714 7.878)"/>
+          <path id="Línea_594" data-name="Línea 594" d="M-2.864-1.71-5.3-4.149-4.149-5.3-1.71-2.864Z" transform="translate(16.714 16.714)"/>
+          <path id="Línea_595" data-name="Línea 595" d="M-2.864-1.71-5.3-4.149-4.149-5.3-1.71-2.864Z" transform="translate(7.878 7.878)"/>
+          <path id="Línea_596" data-name="Línea 596" d="M3.393-5.868H0V-7.5H3.393Z" transform="translate(7.093 7.5)"/>
+          <path id="Línea_597" data-name="Línea 597" d="M3.393-5.868H0V-7.5H3.393Z" transform="translate(7.093 23.446)"/>
+          <path id="Línea_598" data-name="Línea 598" d="M-5.868,3.393H-7.5V0h1.632Z" transform="translate(7.5 7.093)"/>
+          <path id="Línea_599" data-name="Línea 599" d="M-5.868,3.393H-7.5V0h1.632Z" transform="translate(23.447 7.093)"/>
+          <path id="Elipse_12364" data-name="Elipse 12364" d="M-2.16-7.5A5.346,5.346,0,0,1,3.18-2.16,5.346,5.346,0,0,1-2.16,3.18,5.346,5.346,0,0,1-7.5-2.16,5.346,5.346,0,0,1-2.16-7.5Zm0,9.048A3.712,3.712,0,0,0,1.548-2.16,3.712,3.712,0,0,0-2.16-5.868,3.712,3.712,0,0,0-5.868-2.16,3.712,3.712,0,0,0-2.16,1.548Z" transform="translate(10.949 10.949)"/>
+          <path id="Línea_600" data-name="Línea 600" d="M-4.149-1.75-5.3-2.9l2.4-2.4L-1.75-4.149Z" transform="translate(6.678 6.678)"/>
+          <path id="Línea_601" data-name="Línea 601" d="M-4.149-1.75-5.3-2.9l2.4-2.4L-1.75-4.149Z" transform="translate(17.954 17.954)"/>
+          <path id="Línea_602" data-name="Línea 602" d="M-2.9-1.75l-2.4-2.4L-4.149-5.3l2.4,2.4Z" transform="translate(17.954 6.678)"/>
+          <path id="Línea_603" data-name="Línea 603" d="M-2.9-1.75l-2.4-2.4L-4.149-5.3l2.4,2.4Z" transform="translate(6.678 17.954)"/>
+        </g>
+        <path id="Línea_604" data-name="Línea 604" d="M24.592-5.868H0V-7.5H24.592Z" transform="translate(0.816 51.719)"/>
+        <path id="Línea_605" data-name="Línea 605" d="M-5.868,21.777H-7.5V0h1.632Z" transform="translate(19.85 23.257)"/>
+      </g>
+    </g>
+  </g>
+</svg>
